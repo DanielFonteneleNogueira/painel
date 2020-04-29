@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+/* Colocando O FORMULARIO ALINHADA
+	Transforma em BLOCO
+*/
+label {
+	display: block;
+	float: left;
+}
+
+/*/Define um tamanho, impedindo que fiquem desalinhados*/
+
+label, input {
+	width:68px;
+	margin: 3px 0;
+}
+
+/* AUMENTA A largura do INPUT*/
+input {
+	width:100px;
+}
+
+/*Define uma largura para a parte subliada de fora*/
+fieldset {
+	
+	width:200px;
+
+}
