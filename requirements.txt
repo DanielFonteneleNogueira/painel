@@ -29,7 +29,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 Deprecated==1.2.6
 descartes==1.1.0
-Django==2.2.5
+Django==2.2.13
 docutils==0.16
 efficientnet==1.0.0
 entrypoints==0.3
